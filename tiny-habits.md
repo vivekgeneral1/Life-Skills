@@ -52,10 +52,10 @@ e.g.
 Write about the book's perspective on how to make a habit easier to do?
 
 ### Answer:
-1. make the habit obvious(visible)
-2. make the habit attractive(beautify the habit)
-3. make the habit easy(reduct friction, use preprocessing)
-4. make the habit satisfying(immidiately)
+1. make the habit obvious (visible)
+2. make the habit attractive (beautify the habit)
+3. make the habit easy (reduct friction, use preprocessing)
+4. make the habit satisfying (immidiately)
 
 
 ---
@@ -64,10 +64,10 @@ Write about the book's perspective on how to make a habit easier to do?
 Write about the book's perspective on how to make a habit harder to do?
 
 ### Answer:
-1. make the habit invisible(hide the cue)
-2. make the habit ugly(hideous, disgusting)
-3. make the habit hard(introduce friction / more steps)
-4. make the habit unsatisfying(or delay the satisfaction)
+1. make the habit invisible (hide the cue)
+2. make the habit ugly (hideous, disgusting)
+3. make the habit hard (introduce friction / more steps)
+4. make the habit unsatisfying (or delay the satisfaction)
 
 ---
 
@@ -78,7 +78,7 @@ Pick one habit that you would like to do more of? What are the steps that you ca
 + Habit: wake up early
 + Cue: Bed.
 + Craving: Clean, Tidy Bed
-+ Response: I Sleep, (lock mobile phone)
++ Response: I Sleep (lock mobile phone)
 + Reward: I wake up fresh
 
 ---
@@ -88,8 +88,8 @@ Pick one habit that you would like to eliminate or do less of? What are the step
 
 ### Answer:
 + Habit: Social Media
-+ Cue: Mobile Phone(put away while working)
-+ Craving: delete unnecessary apps like Instagram(at least put on silent or remove from home screen)
++ Cue: Mobile Phone (put away while working)
++ Craving: delete unnecessary apps like Instagram (at least put on silent or remove from home screen)
 + Response: focused mind at work with no distractions
 + Reward: I can watch a movie on the weekend if I follow the above for a week.
 ---

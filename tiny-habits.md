@@ -10,7 +10,7 @@ Behaviour = MAT(Motivation, Ability, Trigger)
 ---
 
 ### Question 2
-How can you use B = MAP to make making new habits easier? What are M, A and P.
+How can you use B = MAP to make making new habits easier? What are M, A, and P?
 
 ### Answer:
 
@@ -30,7 +30,7 @@ If we improve by 1% every day for 1 year.
 
 x * (1.01)<sup>365</sup> = 37.78 * x
 
-we will be 37 times better after the year end.
+We will be 37 times better after the year-end.
 
 ---
 
@@ -39,12 +39,12 @@ What is the book's perspective about Identity?
 
 ### Answer:
 
-Go for Identity based approach rather than Outcome based approach for your goal.
+Go for an identity-based approach rather than an outcome-based approach for your goal.
 
 e.g. 
-> I am an early riser, So I sleep early. <- Identity based
+> I am an early riser, so I sleep early. <- identity-based
 
-> I need to go to office early, So I have to sleep early. <- Outcome based
+> I need to go to the office early, so I have to sleep early. <- outcome-based
 
 ---
 
@@ -72,24 +72,24 @@ Write about the book's perspective on how to make a habit harder to do?
 ---
 
 ### Question 8:
-Pick one habit that you would like to do more of? What are the steps that you can take to make it make the cue obvious or the habit more attractive or easy and or response satisfying?
+Pick one habit that you would like to do more of? What are the steps that you can take to make the cue obvious or the habit more attractive or easy and/or response satisfying?
 
 ### Answer:
 + Habit: wake up early
 + Cue: Bed.
-+ Craving: Clean Tidy Bed
++ Craving: Clean, Tidy Bed
 + Response: I Sleep, (lock mobile phone)
 + Reward: I wake up fresh
 
 ---
 
 ### Question 9:
-Pick one habit that you would like to eliminate or do less of? What are the steps that you can take to make it make the cue invisible or the process unattractive or hard or the response unsatisfying?
+Pick one habit that you would like to eliminate or do less of? What are the steps that you can take to make the cue invisible or the process unattractive or hard or the response unsatisfying?
 
 ### Answer:
 + Habit: Social Media
 + Cue: Mobile Phone(put away while working)
-+ Craving: delete unnecessary apps like instagram(atleast put on silent or remove from homescreen)
++ Craving: delete unnecessary apps like Instagram(at least put on silent or remove from home screen)
 + Response: focused mind at work with no distractions
-+ Reward: I can watch movie on weekend if I follow the above for a week.
++ Reward: I can watch a movie on the weekend if I follow the above for a week.
 ---

@@ -29,4 +29,3 @@ What are the dangers of social media, in brief?
 + It is addictive.
 + Wastes time.
 + Everybody is putting their best version on social media; comparing that to yourself can cause depression and unhappiness.
-+ 
